@@ -1,1 +1,28 @@
-{}
+{
+  "name": "Github-E-Github-Ninja",
+  "version": "1.0.0",
+  "description": "> Git Training",
+  "main": "index.js",
+  "dependencies": {
+    "vim": "^0.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Herberpj-code/Git-Training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Herberpj-code/Git-Training/issues"
+  },
+  "homepage": "https://github.com/Herberpj-code/Git-Training#readme"
+}

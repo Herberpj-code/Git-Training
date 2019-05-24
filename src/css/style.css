@@ -1,6 +1,2 @@
-@charset "utf-8";
-
-$color: blue;
 body {
-  background-color : $color;
-}
+  background-color: green; }
